@@ -2,6 +2,7 @@
 - 👀 I worked as software Engineer in Microsoft, Hyderabad, India.
 - 🌱 I’m currently studying Masters in Computer Science at Univ Of Southern Mississippi, USA
 - 💞️ I’m interested in Software development so I’m looking to collaborate with Software engineers and ready to work on interesting projects.
+- 👀 I have started working as Senior Software Engineer in HCL Tech, USA
 - 📫 You can reach out to me on LinkedIn - https://www.linkedin.com/in/sumanth-kumar-usm/
 
 <!---
